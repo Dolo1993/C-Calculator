@@ -1,0 +1,7 @@
+# ninja log v5
+13	4575	7200297775715957	CMakeFiles/C__.dir/myfirstprogram.cpp.obj	1d0c637d2c2c6154
+2	11447	7201098683146735	build.ninja	39eeb8edc575ce64
+4973	7330	7200308328794829	C__.exe	cc7d355d9270a058
+1	4971	7200308304177077	CMakeFiles/C__.dir/doloFirstC++Calculator.cpp.obj	5fc0985fe157b0d0
+48	4969	7201108559784704	CMakeFiles/C__.dir/doloFirstC++Calculator.cpp.obj	5fc0985fe157b0d0
+4970	10806	7201108618505824	C__.exe	cc7d355d9270a058
